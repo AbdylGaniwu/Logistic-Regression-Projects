@@ -78,5 +78,5 @@ The model demonstrated high accuracy in predicting cancer diagnoses, with strong
 ---
 
 ## Conclusion
-This project highlights the potential of **Logistic Regression** in the medical field, specifically for predicting cancer diagnoses. By using data preprocessing techniques such as feature scaling and label encoding, combined with effective model evaluation, we were able to achieve a high accuracy rate.
+This project highlights the potential of **Logistic Regression** in the medical field, specifically for predicting cancer diagnoses. By using data preprocessing techniques such as feature scaling and label encoding, combined with effective model evaluation, was able to achieve a high accuracy rate.
 
